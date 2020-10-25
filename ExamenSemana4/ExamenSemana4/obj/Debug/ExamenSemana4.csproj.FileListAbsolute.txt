@@ -1,0 +1,6 @@
+/Users/luigelodavilavilchez/RiderProjects/ExamenSemana4/ExamenSemana4/bin/Debug/ExamenSemana4.exe
+/Users/luigelodavilavilchez/RiderProjects/ExamenSemana4/ExamenSemana4/bin/Debug/ExamenSemana4.pdb
+/Users/luigelodavilavilchez/RiderProjects/ExamenSemana4/ExamenSemana4/obj/Debug/ExamenSemana4.csprojAssemblyReference.cache
+/Users/luigelodavilavilchez/RiderProjects/ExamenSemana4/ExamenSemana4/obj/Debug/ExamenSemana4.csproj.CoreCompileInputs.cache
+/Users/luigelodavilavilchez/RiderProjects/ExamenSemana4/ExamenSemana4/obj/Debug/ExamenSemana4.exe
+/Users/luigelodavilavilchez/RiderProjects/ExamenSemana4/ExamenSemana4/obj/Debug/ExamenSemana4.pdb

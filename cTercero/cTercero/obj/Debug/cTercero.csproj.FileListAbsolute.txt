@@ -1,0 +1,6 @@
+/Users/luigelodavilavilchez/RiderProjects/cTercero/cTercero/bin/Debug/cTercero.exe
+/Users/luigelodavilavilchez/RiderProjects/cTercero/cTercero/bin/Debug/cTercero.pdb
+/Users/luigelodavilavilchez/RiderProjects/cTercero/cTercero/obj/Debug/cTercero.csprojAssemblyReference.cache
+/Users/luigelodavilavilchez/RiderProjects/cTercero/cTercero/obj/Debug/cTercero.csproj.CoreCompileInputs.cache
+/Users/luigelodavilavilchez/RiderProjects/cTercero/cTercero/obj/Debug/cTercero.exe
+/Users/luigelodavilavilchez/RiderProjects/cTercero/cTercero/obj/Debug/cTercero.pdb

@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checking users", "Checking users\Checking users.csproj", "{87A1D651-6B25-4B43-BA98-DFA522A8F6BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87A1D651-6B25-4B43-BA98-DFA522A8F6BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87A1D651-6B25-4B43-BA98-DFA522A8F6BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87A1D651-6B25-4B43-BA98-DFA522A8F6BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87A1D651-6B25-4B43-BA98-DFA522A8F6BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

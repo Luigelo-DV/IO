@@ -1,0 +1,6 @@
+/Users/luigelodavilavilchez/RiderProjects/iterativeSentences/iterativeSentences/bin/Debug/iterativeSentences.exe
+/Users/luigelodavilavilchez/RiderProjects/iterativeSentences/iterativeSentences/bin/Debug/iterativeSentences.pdb
+/Users/luigelodavilavilchez/RiderProjects/iterativeSentences/iterativeSentences/obj/Debug/iterativeSentences.csprojAssemblyReference.cache
+/Users/luigelodavilavilchez/RiderProjects/iterativeSentences/iterativeSentences/obj/Debug/iterativeSentences.csproj.CoreCompileInputs.cache
+/Users/luigelodavilavilchez/RiderProjects/iterativeSentences/iterativeSentences/obj/Debug/iterativeSentences.exe
+/Users/luigelodavilavilchez/RiderProjects/iterativeSentences/iterativeSentences/obj/Debug/iterativeSentences.pdb

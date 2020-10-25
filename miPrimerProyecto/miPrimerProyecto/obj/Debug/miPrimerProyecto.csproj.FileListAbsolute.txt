@@ -1,0 +1,6 @@
+/Users/luigelodavilavilchez/RiderProjects/miPrimerProyecto/miPrimerProyecto/obj/Debug/miPrimerProyecto.csprojAssemblyReference.cache
+/Users/luigelodavilavilchez/RiderProjects/miPrimerProyecto/miPrimerProyecto/obj/Debug/miPrimerProyecto.csproj.CoreCompileInputs.cache
+/Users/luigelodavilavilchez/RiderProjects/miPrimerProyecto/miPrimerProyecto/bin/Debug/miPrimerProyecto.exe
+/Users/luigelodavilavilchez/RiderProjects/miPrimerProyecto/miPrimerProyecto/bin/Debug/miPrimerProyecto.pdb
+/Users/luigelodavilavilchez/RiderProjects/miPrimerProyecto/miPrimerProyecto/obj/Debug/miPrimerProyecto.exe
+/Users/luigelodavilavilchez/RiderProjects/miPrimerProyecto/miPrimerProyecto/obj/Debug/miPrimerProyecto.pdb

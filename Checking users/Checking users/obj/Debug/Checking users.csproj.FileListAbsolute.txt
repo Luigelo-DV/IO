@@ -1,0 +1,6 @@
+/Users/luigelodavilavilchez/RiderProjects/Checking users/Checking users/bin/Debug/Checking_users.exe
+/Users/luigelodavilavilchez/RiderProjects/Checking users/Checking users/bin/Debug/Checking_users.pdb
+/Users/luigelodavilavilchez/RiderProjects/Checking users/Checking users/obj/Debug/Checking users.csprojAssemblyReference.cache
+/Users/luigelodavilavilchez/RiderProjects/Checking users/Checking users/obj/Debug/Checking users.csproj.CoreCompileInputs.cache
+/Users/luigelodavilavilchez/RiderProjects/Checking users/Checking users/obj/Debug/Checking_users.exe
+/Users/luigelodavilavilchez/RiderProjects/Checking users/Checking users/obj/Debug/Checking_users.pdb

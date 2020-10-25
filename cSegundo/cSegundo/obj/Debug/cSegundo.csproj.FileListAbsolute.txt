@@ -1,0 +1,6 @@
+/Users/luigelodavilavilchez/RiderProjects/cSegundo/cSegundo/obj/Debug/cSegundo.csprojAssemblyReference.cache
+/Users/luigelodavilavilchez/RiderProjects/cSegundo/cSegundo/obj/Debug/cSegundo.csproj.CoreCompileInputs.cache
+/Users/luigelodavilavilchez/RiderProjects/cSegundo/cSegundo/bin/Debug/cSegundo.exe
+/Users/luigelodavilavilchez/RiderProjects/cSegundo/cSegundo/bin/Debug/cSegundo.pdb
+/Users/luigelodavilavilchez/RiderProjects/cSegundo/cSegundo/obj/Debug/cSegundo.exe
+/Users/luigelodavilavilchez/RiderProjects/cSegundo/cSegundo/obj/Debug/cSegundo.pdb
