@@ -1,2 +1,2 @@
 # IO
-Repositorio para IO 
+Repositorio para Introducción a los ordenadores
